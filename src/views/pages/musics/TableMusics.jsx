@@ -364,7 +364,6 @@ class TableMusics extends Component {
 
     loadMusic = () => {
         API.getMusics().then((r) => {
-            console.log('ada data musik ??', r)
             this.setState({
                 ...this.state,
                 musics: r,
