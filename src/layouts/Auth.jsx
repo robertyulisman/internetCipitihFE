@@ -59,7 +59,7 @@ class Auth extends React.Component {
               <div className="header-body text-center mb-7">
                 <Row className="justify-content-center">
                   <Col lg="5" md="6">
-                    <h1 className="text-white">GUDANG AUDIO</h1>
+                    <h1 className="text-white">INTERNET CIPITIH</h1>
                     <p className="text-lead text-light">
                       Manage applikasi audio android
                     </p>
