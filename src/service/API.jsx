@@ -4,7 +4,8 @@ require('dotenv').config()
 // const BASE_URL = process.env.REACT_APP_BASE_URL;
 // const BASE_URL = "https://api-lagu.masyadi.com";
 // const BASE_URL = "http://localhost:5000";
-const BASE_URL = "http://cryptic-everglades-82283.herokuapp.com";
+// const BASE_URL = "https://cryptic-everglades-82283.herokuapp.com";
+const BASE_URL = "https://api.mejormusica.xyz";
 // console.log(process.env)
 
 function getUser() {
